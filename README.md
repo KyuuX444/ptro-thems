@@ -94,10 +94,10 @@ pterodactyl-package/
 
 ## 🚀 Panduan Instalasi Cepat (Automated)
 
-1. Ekstrak zip ke VPS Anda:
+1. Clone repositori ke VPS Anda:
    ```bash
-   unzip ptro-thems.zip -d /root/ptro-thems
-   cd /root/ptro-thems
+   git clone https://github.com/KyuuX444/ptro-thems.git
+   cd ptro-thems
    ```
 
 2. Jalankan installer script dengan akses root:
