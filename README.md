@@ -4,6 +4,14 @@ Paket lengkap redesign tampilan **Clean Monochrome + Geometric Grid** dan modul 
 
 ---
 
+## 📸 Preview Tampilan
+
+| Dashboard Server | Sidebar Nav Drawer | AI Agent Module |
+| :---: | :---: | :---: |
+| <img src="assets/preview-dashboard.png" width="260" alt="Dashboard Panel" /> | <img src="assets/preview-sidebar.png" width="260" alt="Sidebar Navigation" /> | <img src="assets/preview-ai-agent.png" width="260" alt="AI Agent Module" /> |
+
+---
+
 ## 🌟 Fitur Utama
 
 ### 1. Clean Monochrome & Geometric Grid Theme
